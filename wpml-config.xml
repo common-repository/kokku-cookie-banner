@@ -1,0 +1,7 @@
+<wpml-config>
+    <admin-texts>
+        <key name="kokku_cookie_banner_options">
+            <key name="kokku_cookie_banner_content_field" />
+        </key>
+    </admin-texts>
+</wpml-config>

@@ -1,0 +1,1 @@
+jQuery(".kokku-cookie-banner-color-field").wpColorPicker();
